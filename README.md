@@ -1,8 +1,8 @@
-# Coupled-Fib2Flu-
+# Coupled-Fiber2Fluent-
 
-A Coupled Interface file(UDF) written by C
+The interface files(UDF) written by C
 
-## include two files📂:
-@1 Judge.c- Adjust the alternate running between Fiber+ And Ansys(Fluent) by recognizing the content named judge.txt
+## Which include two files📂:
+@1 Judge.c- Adjust the alternate running between Fiber+ and Ansys(Fluent) by recognizing the content named judge.txt.
 
-@2 SDof.c-  Define the rigid's six-Dof information include: Mass, Moment of Inertia, External force And moment
+@2 SDof.c-  Define rigid's 6-Dof informations which include: The Mass, Moment of Inertia, External forces and moments.
